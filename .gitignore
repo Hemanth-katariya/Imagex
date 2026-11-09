@@ -1,0 +1,5 @@
+images/
+*.tar
+__pycache__/
+.venv/
+*.egg-info/
